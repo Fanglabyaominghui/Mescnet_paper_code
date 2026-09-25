@@ -1,0 +1,7 @@
+# Normalise line endings on checkout/commit
+* text=auto eol=lf
+
+# Keep rendered figures binary
+*.svg binary
+*.png binary
+*.pdf binary
